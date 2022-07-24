@@ -3,12 +3,23 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@stripe/react-stripe-js": "^1.9.0",
+    "@stripe/stripe-js": "^1.32.0",
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
     "@testing-library/user-event": "^13.5.0",
+    "axios": "^0.27.2",
+    "firebase": "^9.9.0",
+    "moment": "^2.29.4",
     "react": "^18.2.0",
+    "react-carousel-responsive": "^0.0.31",
+    "react-currency-format": "^1.1.0",
     "react-dom": "^18.2.0",
+    "react-is": "^18.2.0",
+    "react-router-dom": "^5.3.3",
     "react-scripts": "5.0.1",
+    "react-scroll-up-button": "^1.6.4",
+    "react-toastify": "^9.0.7",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
